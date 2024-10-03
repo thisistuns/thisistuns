@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+tuns!;" />
 </h1>
@@ -44,9 +42,6 @@
 </div>
 
 <hr/>
-
-
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=thisistuns&label=Profile%20Views&color=11&icon=1&pretty=true)](https://visitcount.itsvg.in)

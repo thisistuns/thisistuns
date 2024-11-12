@@ -21,9 +21,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
-
-<br/>
-<hr/>
-
----
-[![](https://visitcount.itsvg.in/api?id=thisistuns&label=Profile%20Views&color=11&icon=1&pretty=true)](https://visitcount.itsvg.in)
